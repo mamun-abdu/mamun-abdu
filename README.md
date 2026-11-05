@@ -56,5 +56,5 @@ Statistics and Computer Science student exploring AI, data, and software develop
 ### Stack
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css" alt="Python, HTML, CSS" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,wordpress,git,bash" alt="Python, Java, SQL, HTML, CSS, WordPress, Git, Bash" /></a>
 </p>
