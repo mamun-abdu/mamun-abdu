@@ -24,10 +24,11 @@ Statistics and Computer Science student exploring AI, data, and software develop
 </table>
 
 <p align="center">
-  <a href="https://mamunabdu.com">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mamunabdu">💼 LinkedIn</a> ·
-  <a href="https://mamunabdu.hashnode.dev">✍️ Hashnode</a> ·
-  ✉️ Email: <a href="mailto:hello@mamunabdu.pro.bd">hello@mamunabdu.pro.bd</a>
+  <a href="https://mamunabdu.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mamunabdu" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://x.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+  <a href="https://www.instagram.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="mailto:hello@mamunabdu.pro.bd"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
