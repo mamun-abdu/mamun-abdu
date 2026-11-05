@@ -1,38 +1,62 @@
-### Hi, I'm Mamun 👋
-
-Learning to code by shipping small Python tools and writing about what clicks.
-
 <p align="center">
-  <a href="https://mamunabdu.pro.bd">Website</a> ·
-  <a href="https://mamunabdu.hashnode.dev">Blog</a> ·
-  <a href="https://www.linkedin.com/in/mamunabdu">LinkedIn</a> ·
-  <a href="https://x.com/mamunabdux">X</a> ·
-  <a href="https://builder.aws.com/community/@mamunabdu">AWS Builder</a> ·
-  <a href="https://linktr.ee/mamunabdu">Linktree</a> ·
-  <a href="mailto:mamunabduhello@mamunabdu.pro.bd">Email</a>
+  <img src="https://piixpal.dvkk.dev/readme?text=Hi,%20I%27m%20Mamun&pals=bitbug,sprout&theme=auto&credit=0" alt="Hi, I'm Mamun" />
 </p>
 
+Statistics and Computer Science student exploring AI, data, and software development.
+
+| | |
+| --- | --- |
+| **Education** | BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People) |
+| **Currently learning** | Python, HTML/CSS, Git, beginner-friendly open-source issues |
+| **Interests** | AI, data science, small useful tools |
+| **Working on** | Tiny Python CLIs and writing what I learn |
+| **Outside of code** | Football with friends · Real Madrid |
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&pause=1000&color=A0A0A0&center=true&vCenter=true&repeat=false&width=520&lines=Python+%C2%B7+stats+homework+%C2%B7+small+CLIs;AWS+Builder+notes+%C2%B7+looking+for+good+first+issues" alt="typing" />
+  <a href="https://mamunabdu.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mamunabdu">LinkedIn</a> ·
+  <a href="https://x.com/mamunabdux">X</a> ·
+  <a href="mailto:hello@mamunabdu.pro.bd">Email</a>
 </p>
 
 ---
 
-- 🐍 Statistics undergrad picking up Computer Science
-- 🌱 Currently learning: Python, Git/GitHub, AWS Builder Center, first OSS issues
-- 🔨 Building: [csv-describe](https://github.com/mamun-abdu/csv-describe), [extsort](https://github.com/mamun-abdu/extsort), [bangla-pdfcheck](https://github.com/mamun-abdu/bangla-pdfcheck), [WishWeave](https://github.com/mamun-abdu/wishweave-showcase)
-- 📫 Reach me: [mamunabduhello@mamunabdu.pro.bd](mailto:mamunabduhello@mamunabdu.pro.bd)
+### Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/mamun-abdu/csv-describe">csv-describe</a></h3>
+      <code>Python</code>
+      <p>One-file CLI: mean / median / sd (or modes) for each CSV column. Stdlib only.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/mamun-abdu/extsort">extsort</a></h3>
+      <code>Python</code>
+      <p>Sort files into folders by extension — a small utility I actually use.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/mamun-abdu/bangla-pdfcheck">bangla-pdfcheck</a></h3>
+      <code>Python</code>
+      <p>Offline Bengali PDF text / Unicode checks without a cloud OCR call.</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More</b></summary>
+<br/>
+
+- [WishWeave](https://github.com/mamun-abdu/wishweave-showcase) — rough ideas → clearer next steps
+
+</details>
+
+---
 
 ### Stack
 
 <p>
-  <img src="./assets/python.png" width="32" height="32" alt="Python" />
-  &nbsp;
-  <img src="./assets/git.png" width="32" height="32" alt="Git" />
-  &nbsp;
-  <img src="./assets/github.png" width="32" height="32" alt="GitHub" />
-  &nbsp;
-  <img src="./assets/aws.png" width="32" height="32" alt="AWS" />
-  &nbsp;
-  <img src="./assets/linux.png" width="32" height="32" alt="Linux" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css" alt="Python, HTML, CSS" /></a>
 </p>
+
+Reach me: [hello@mamunabdu.pro.bd](mailto:hello@mamunabdu.pro.bd)
