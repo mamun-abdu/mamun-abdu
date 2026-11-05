@@ -19,10 +19,6 @@ Currently learning: web programming, data structures, databases, and operating s
     <td><b>Working on</b></td>
     <td>Tiny Python CLIs and writing what I learn</td>
   </tr>
-  <tr>
-    <td><b>Outside of code</b></td>
-    <td>Football with friends · Real Madrid</td>
-  </tr>
 </table>
 
 <p align="center">
