@@ -4,12 +4,14 @@
 
 Statistics and Computer Science student exploring AI, data, and software development through small Python and Java projects.
 
-Currently learning: web programming, data structures, databases, and operating systems.
-
 <table>
   <tr>
     <td><b>Education</b></td>
     <td>BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People)</td>
+  </tr>
+  <tr>
+    <td><b>Currently learning</b></td>
+    <td>web programming, data structures, databases, and operating systems</td>
   </tr>
   <tr>
     <td><b>Interests</b></td>
