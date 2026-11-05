@@ -15,7 +15,7 @@ Statistics and Computer Science student exploring AI, data, and software develop
 <p align="center">
   <a href="https://mamunabdu.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mamunabdu">LinkedIn</a> ·
-  <a href="https://x.com/mamunabdux">X</a> ·
+  <a href="https://mamunabdu.hashnode.dev">Hashnode</a> ·
   Email: <a href="mailto:hello@mamunabdu.pro.bd">hello@mamunabdu.pro.bd</a>
 </p>
 
