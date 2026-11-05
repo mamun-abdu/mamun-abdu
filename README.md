@@ -16,7 +16,7 @@ Statistics and Computer Science student exploring AI, data, and software develop
   <a href="https://mamunabdu.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mamunabdu">LinkedIn</a> ·
   <a href="https://x.com/mamunabdux">X</a> ·
-  <a href="mailto:hello@mamunabdu.pro.bd">Email</a>
+  Email: <a href="mailto:hello@mamunabdu.pro.bd">hello@mamunabdu.pro.bd</a>
 </p>
 
 ---
@@ -58,5 +58,3 @@ Statistics and Computer Science student exploring AI, data, and software develop
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html,css" alt="Python, HTML, CSS" /></a>
 </p>
-
-Reach me: [hello@mamunabdu.pro.bd](mailto:hello@mamunabdu.pro.bd)
