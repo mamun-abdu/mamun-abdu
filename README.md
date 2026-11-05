@@ -4,6 +4,10 @@
 
 Statistics and Computer Science student exploring AI, data, and software development.
 
+Statistics and CS student at National University Bangladesh, exploring AI, data, and software development through small Python and Java projects.
+
+Currently learning: web programming, data structures, databases, and operating systems.
+
 | | |
 | --- | --- |
 | **Education** | BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People) |
