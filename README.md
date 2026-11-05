@@ -18,9 +18,13 @@
 
 ---
 
-Hi — I’m a statistics student who got hooked on data and technology. Most evenings I’m either wrestling a small Python script or writing down what just clicked.
+Hi — I’m a Statistics student passionate about data and technology.
 
-I’m learning by shipping: tiny CLIs, plain HTML/CSS pages, and short posts when something sticks. On the side I hang around [AWS Builder Center](https://builder.aws.com/community/@mamunabdu) and keep notes on [Hashnode](https://mamunabdu.hashnode.dev).
+I’m pursuing my B.Sc. in Statistics at National University, Bangladesh, and learning Computer Science online at the University of the People so I can build practical tech skills that support my studies and future work.
+
+Right now I’m strengthening Statistics and Python, and enjoying how the two fields fit together. Most evenings I’m either wrestling a small script or writing down what just clicked. On the side I hang around [AWS Builder Center](https://builder.aws.com/community/@mamunabdu) and keep notes on [Hashnode](https://mamunabdu.hashnode.dev).
+
+Outside of academics, Scouting and community work taught me discipline, teamwork, and leadership.
 
 ### A few milestones
 - [Stanford Code in Place](https://codeinplace.stanford.edu) (2025)
@@ -47,6 +51,6 @@ I’m learning by shipping: tiny CLIs, plain HTML/CSS pages, and short posts whe
 
 <div align="center">
 
-If you’re figuring things out as you go too — [say hi](https://x.com/mamunabdux).
+I’m always excited to learn, ship small projects, and connect with people in tech — [say hi](https://x.com/mamunabdux).
 
 </div>
