@@ -1,54 +1,37 @@
-<div align="center">
+### Hi, I'm Mamun 👋
 
-<img src="./pixel/banner.svg" width="880" alt="pixel circuit banner" />
+Learning to code by shipping small Python tools and writing about what clicks.
 
-<br/>
-
-<img src="./pixel/stage.png" width="280" alt="pixel avatar stage" />
+[Website](https://mamunabdu.pro.bd) · [Blog](https://mamunabdu.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/mamunabdu) · [X](https://x.com/mamunabdux) · [AWS Builder](https://builder.aws.com/community/@mamunabdu) · [Linktree](https://linktr.ee/mamunabdu) · [Email](mailto:mamunabduhello@mamunabdu.pro.bd)
 
 <p>
-  <a href="https://mamunabdu.pro.bd"><img src="https://img.shields.io/badge/Site-mamunabdu.pro.bd-0b0d12?style=flat-square&labelColor=0b0d12&color=00e5ff" alt="Site" /></a>
-  <a href="https://mamunabdu.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-Blog-0b0d12?style=flat-square&logo=hashnode&logoColor=00e5ff&labelColor=0b0d12&color=1c1e2a" alt="Hashnode" /></a>
-  <a href="https://www.linkedin.com/in/mamunabdu"><img src="https://img.shields.io/badge/LinkedIn-mamunabdu-0b0d12?style=flat-square&logo=linkedin&logoColor=00e5ff&labelColor=0b0d12&color=1c1e2a" alt="LinkedIn" /></a>
-  <a href="https://builder.aws.com/community/@mamunabdu"><img src="https://img.shields.io/badge/AWS-Builder-0b0d12?style=flat-square&logo=amazonwebservices&logoColor=00e5ff&labelColor=0b0d12&color=1c1e2a" alt="AWS Builder" /></a>
-  <a href="https://linktr.ee/mamunabdu"><img src="https://img.shields.io/badge/Linktree-links-0b0d12?style=flat-square&logo=linktree&logoColor=00e5ff&labelColor=0b0d12&color=1c1e2a" alt="Linktree" /></a>
-  <a href="https://x.com/mamunabdux"><img src="https://img.shields.io/badge/X-mamunabdux-0b0d12?style=flat-square&logo=x&logoColor=00e5ff&labelColor=0b0d12&color=1c1e2a" alt="X" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=false&vCenter=true&width=520&lines=Python+%C2%B7+stats+homework+%C2%B7+small+CLIs;AWS+Builder+notes;looking+for+good+first+issues" alt="typing" />
 </p>
 
-<img src="./pixel/divider.svg" width="640" alt="" />
+---
 
-</div>
-
-Stats student learning CS — mostly Python, small tools, and writing down what clicks. Evenings are scripts, notes, and the occasional AWS Builder scroll.
-
-<img src="./pixel/divider.svg" width="640" alt="" />
+Statistics undergrad picking up Computer Science. Most evenings: a script, a GitHub issue, or notes on Hashnode.
 
 ### Currently learning
-- **Python** — scripts, small CLIs, cleaner problem-solving
-- **AWS Builder Center** — reading, notes, staying close to builders
+- **Python** — scripts, CLIs, cleaner problem-solving
 - **Git / GitHub** — issues, PRs, contribution flow
-- Beginner-friendly OSS first issues — learning in public
+- **AWS Builder Center** — reading and staying close to builders
+- Beginner-friendly open-source first issues
 
 ### What I'm building
-- [`extsort`](https://github.com/mamun-abdu/extsort) — small Python tooling
+- [`csv-describe`](https://github.com/mamun-abdu/csv-describe) — one-file CLI: mean / median / sd (or modes) for each CSV column
+- [`extsort`](https://github.com/mamun-abdu/extsort) — sort files into folders by extension
+- [`bangla-pdfcheck`](https://github.com/mamun-abdu/bangla-pdfcheck) — offline Bengali PDF text / Unicode checks
 - [WishWeave](https://github.com/mamun-abdu/wishweave-showcase) — rough ideas → clearer next steps
-- Bangla PDF helpers · simple HTML/CSS pages
-- Goal: land a few beginner OSS PRs and keep shipping
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0b0d12?style=flat-square&logo=python&logoColor=00e5ff" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-0b0d12?style=flat-square&logo=git&logoColor=00e5ff" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML-0b0d12?style=flat-square&logo=html5&logoColor=00e5ff" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-0b0d12?style=flat-square&logo=css3&logoColor=00e5ff" alt="CSS" />
-  <img src="https://img.shields.io/badge/AWS-0b0d12?style=flat-square&logo=amazonwebservices&logoColor=00e5ff" alt="AWS" />
-</p>
+### Stack
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-<img src="./pixel/tile.svg" width="28" alt="" />
+---
 
-<br/>
-
-[say hi](https://x.com/mamunabdux)
-
-</div>
+Reach me: [mamunabduhello@mamunabdu.pro.bd](mailto:mamunabduhello@mamunabdu.pro.bd) · [say hi on X](https://x.com/mamunabdux)
