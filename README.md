@@ -34,6 +34,7 @@ Statistics and Computer Science student exploring AI, data, and software develop
   <a href="https://www.instagram.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   <a href="https://mamunabdu.hashnode.dev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/hashnode" alt="Hashnode" width="48" height="48" /></a>
   <a href="mailto:hello@mamunabdu.pro.bd"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://discord.com/users/1360221931105943652" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 </p>
 
 ---
