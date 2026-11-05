@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img">
+  <title>Portfolio</title>
+  <rect width="48" height="48" rx="10" fill="#24292f"/>
+  <g fill="none" stroke="#ffffff" stroke-width="1.7" stroke-linecap="round">
+    <circle cx="24" cy="24" r="10"/>
+    <ellipse cx="24" cy="24" rx="4.2" ry="10"/>
+    <ellipse cx="24" cy="24" rx="7.6" ry="10"/>
+    <path d="M14 24h20"/>
+  </g>
+</svg>

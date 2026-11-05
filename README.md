@@ -7,7 +7,7 @@ Statistics and Computer Science student exploring AI, data, and software develop
 <table>
   <tr>
     <td><b>Education</b></td>
-    <td>BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People)</td>
+    <td>BSc Statistics (NU Bangladesh) · BS CS (UoPeople)</td>
   </tr>
   <tr>
     <td><b>Currently learning</b></td>
@@ -28,13 +28,13 @@ Statistics and Computer Science student exploring AI, data, and software develop
 </table>
 
 <p align="center">
-  <a href="https://mamunabdu.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mamunabdu" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://x.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
-  <a href="https://www.instagram.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://mamunabdu.hashnode.dev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/hashnode" alt="Hashnode" width="48" height="48" /></a>
-  <a href="mailto:hello@mamunabdu.pro.bd"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://discord.com/users/1360221931105943652" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://mamunabdu.com" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/portfolio.svg" alt="Portfolio" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/mamunabdu" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="48" height="48" /></a>
+  <a href="https://x.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/x.svg" alt="X" width="48" height="48" /></a>
+  <a href="https://www.instagram.com/mamunabdux" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/instagram.svg" alt="Instagram" width="48" height="48" /></a>
+  <a href="https://mamunabdu.hashnode.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/hashnode.svg" alt="Hashnode" width="48" height="48" /></a>
+  <a href="mailto:hello@mamunabdu.pro.bd"><img src="./assets/icons/email.svg" alt="Email" width="48" height="48" /></a>
+  <a href="https://discord.com/users/1360221931105943652" target="_blank" rel="noopener noreferrer"><img src="./assets/icons/discord.svg" alt="Discord" width="48" height="48" /></a>
 </p>
 
 ---
@@ -60,14 +60,6 @@ Statistics and Computer Science student exploring AI, data, and software develop
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>More</b></summary>
-<br/>
-
-- [WishWeave](https://github.com/mamun-abdu/wishweave-showcase) — rough ideas → clearer next steps
-
-</details>
 
 ---
 
