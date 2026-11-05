@@ -20,24 +20,37 @@
 
 Hi — I’m a Statistics student passionate about data and technology.
 
-I’m pursuing my B.Sc. in Statistics at National University, Bangladesh, and learning Computer Science online at the University of the People so I can build practical tech skills that support my studies and future work.
+I’m pursuing my B.Sc. in Statistics at National University, Bangladesh (2024–2028), and learning Computer Science online at the University of the People (2025–2029) so I can build practical tech skills that support my studies and future work.
 
 Right now I’m strengthening Statistics and Python, and enjoying how the two fields fit together. Most evenings I’m either wrestling a small script or writing down what just clicked. On the side I hang around [AWS Builder Center](https://builder.aws.com/community/@mamunabdu) and keep notes on [Hashnode](https://mamunabdu.hashnode.dev).
 
 Outside of academics, Scouting and community work taught me discipline, teamwork, and leadership.
 
+### Education
+- **B.Sc. Statistics** — National University, Bangladesh (2024–2028)
+- **B.Sc. Computer Science** — University of the People (2025–2029)
+
 ### A few milestones
 - [Stanford Code in Place](https://codeinplace.stanford.edu) (2025)
 - Aspire Leaders Program, Cohort 4 (2025)
+- EF SET English Certificate — C1 Advanced (2025)
+- HerWILL AI Workshop (2026)
 - AWS Builder · WishWeave showcase
 - President’s Scout Award (2021)
+
+### Volunteer
+- **Aspire CAL Volunteer** — Aspire Institute (2026–present)
+- **Campus Mantri** — GeeksforGeeks (2026)
+- **Senior Patrol Leader** — Bangladesh Scouts (2015–2021)
 
 ### Lately
 - Small Python tools like [`extsort`](https://github.com/mamun-abdu/extsort)
 - [WishWeave](https://github.com/mamun-abdu/wishweave-showcase) — rough ideas → clearer next steps
 - Bangla PDF helpers and simple front-end pages
 
-### Stack
+### Skills
+Python · Computer Science · Statistics · Blogging · Leadership · HTML/CSS · Git · AWS
+
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white)
