@@ -61,6 +61,15 @@ Statistics and Computer Science student exploring AI, data, and software develop
   </tr>
 </table>
 
+<details>
+<summary><b>More</b></summary>
+<br/>
+
+- [WishWeave](https://github.com/mamun-abdu/wishweave-showcase) — rough ideas → clearer next steps (`HTML`)
+- [simple-stats-measurement-calculator](https://github.com/mamun-abdu/simple-stats-measurement-calculator) — count and measure basic statistical data points (`Python`)
+
+</details>
+
 ---
 
 ### Stack
