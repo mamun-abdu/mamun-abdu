@@ -21,6 +21,10 @@ Statistics and Computer Science student exploring AI, data, and software develop
     <td><b>Working on</b></td>
     <td>Tiny Python CLIs and writing what I learn</td>
   </tr>
+  <tr>
+    <td><b>Open to</b></td>
+    <td>Internships and collaboration</td>
+  </tr>
 </table>
 
 <p align="center">
@@ -34,7 +38,7 @@ Statistics and Computer Science student exploring AI, data, and software develop
 
 ---
 
-### Projects
+### Featured projects
 
 <table>
   <tr>
