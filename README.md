@@ -2,18 +2,28 @@
   <img src="https://piixpal.dvkk.dev/readme?text=Hi,%20I%27m%20Mamun&pals=bitbug,sprout&theme=auto&credit=0" alt="Hi, I'm Mamun" />
 </p>
 
-Statistics and Computer Science student exploring AI, data, and software development.
-
-Exploring AI, data, and software development through small Python and Java projects.
+Statistics and Computer Science student exploring AI, data, and software development through small Python and Java projects.
 
 Currently learning: web programming, data structures, databases, and operating systems.
 
-| | |
-| --- | --- |
-| **Education** | BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People) |
-| **Interests** | AI, data science, small useful tools |
-| **Working on** | Tiny Python CLIs and writing what I learn |
-| **Outside of code** | Football with friends · Real Madrid |
+<table>
+  <tr>
+    <td><b>Education</b></td>
+    <td>BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People)</td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>AI, data science, small useful tools</td>
+  </tr>
+  <tr>
+    <td><b>Working on</b></td>
+    <td>Tiny Python CLIs and writing what I learn</td>
+  </tr>
+  <tr>
+    <td><b>Outside of code</b></td>
+    <td>Football with friends · Real Madrid</td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://mamunabdu.com">🌐 Portfolio</a> ·
@@ -58,6 +68,6 @@ Currently learning: web programming, data structures, databases, and operating s
 
 ### Stack
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,wordpress,git,bash" alt="Python, Java, SQL, HTML, CSS, WordPress, Git, Bash" /></a>
 </p>
