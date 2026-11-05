@@ -4,23 +4,22 @@
 
 Statistics and Computer Science student exploring AI, data, and software development.
 
-Statistics and CS student at National University Bangladesh, exploring AI, data, and software development through small Python and Java projects.
+Exploring AI, data, and software development through small Python and Java projects.
 
 Currently learning: web programming, data structures, databases, and operating systems.
 
 | | |
 | --- | --- |
 | **Education** | BSc Statistics (National University, Bangladesh) · BS Computer Science (University of the People) |
-| **Currently learning** | Python, HTML/CSS, Git, beginner-friendly open-source issues |
 | **Interests** | AI, data science, small useful tools |
 | **Working on** | Tiny Python CLIs and writing what I learn |
 | **Outside of code** | Football with friends · Real Madrid |
 
 <p align="center">
-  <a href="https://mamunabdu.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mamunabdu">LinkedIn</a> ·
-  <a href="https://mamunabdu.hashnode.dev">Hashnode</a> ·
-  Email: <a href="mailto:hello@mamunabdu.pro.bd">hello@mamunabdu.pro.bd</a>
+  <a href="https://mamunabdu.com">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mamunabdu">💼 LinkedIn</a> ·
+  <a href="https://mamunabdu.hashnode.dev">✍️ Hashnode</a> ·
+  ✉️ Email: <a href="mailto:hello@mamunabdu.pro.bd">hello@mamunabdu.pro.bd</a>
 </p>
 
 ---
