@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- pixel theme: cream / moss / brown -->
+<!-- pixel theme: cream / moss / brown + hoodie avatar -->
 <img src="./pixel/banner.svg" alt="Mamun pixel banner" width="880" />
 
 <br/>
 
-<img src="./pixel/avatar.png" width="140" alt="pixel Mamun sprite" />
+<img src="./pixel/avatar.png" width="160" alt="Mamun pixel hoodie avatar" />
 
 # Mamun
 ### learning to code by shipping small tools and writing about it
-
-`Student · Python · stats · learning in public`
 
 <img src="./pixel/divider.svg" alt="" width="480" />
 
@@ -24,22 +22,25 @@
 
 ---
 
-### About
-I'm a student learning **computer science** and **statistics** by writing small Python tools, simple HTML/CSS pages, and short tech posts.
+### Hi
 
-Still early — more practice than polished projects. That's fine.
+I live in Bangladesh and spend most evenings either breaking a small Python script or writing down what I just figured out.
 
-<img src="./pixel/divider.svg" alt="" width="480" />
+School covers computer science and statistics. The stuff that sticks for me is the tools I actually use — sorting a messy Downloads folder, checking a Bangla PDF, little pages that only need HTML and CSS.
 
-### What I'm into right now
-- Writing and cleaning up small Python CLIs (like [`extsort`](https://github.com/mamun-abdu/extsort))
-- Front-end pages with plain HTML/CSS
-- Blogging what I learn on [Hashnode](https://mamunabdu.hashnode.dev)
-- Peeking into AI tools and Web3 when curiosity hits
+I'm not trying to look like a senior engineer. I'm trying to ship something useful every week and get a little less confused than last week.
 
 <img src="./pixel/divider.svg" alt="" width="480" />
 
-### Stack
+### Lately I've been
+- Building tiny CLIs when a real problem shows up (starting with [`extsort`](https://github.com/mamun-abdu/extsort))
+- Making plain HTML/CSS pages without a framework
+- Writing short posts on [Hashnode](https://mamunabdu.hashnode.dev) so future-me remembers
+- Trying AI tools carefully, and poking at Web3 when a friend won't stop talking about it
+
+<img src="./pixel/divider.svg" alt="" width="480" />
+
+### What I reach for
 <p>
   <img src="https://img.shields.io/badge/Python-3D5A3A?style=flat-square&logo=python&logoColor=F5E6C8" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-6B4F2A?style=flat-square&logo=html5&logoColor=F5E6C8" alt="HTML5" />
@@ -60,7 +61,7 @@ Still early — more practice than polished projects. That's fine.
 
 <img src="./pixel/tile.svg" width="24" alt="" />
 
-**open to chats · ideas · collabs**
+If you're also figuring things out as you go — say hi.
 
 `github.com/mamun-abdu` · `x.com/mamunabdux` · `mamunabdu.com`
 
